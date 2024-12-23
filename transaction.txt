@@ -1,0 +1,2 @@
+Deposited amount: 20.2
+Withdrew amount: 10.05
